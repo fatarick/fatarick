@@ -16,6 +16,8 @@ Storage: 240GB SSD+1TB HDD.
 
 OS:Windows 11 23H2
 
+
+
 Config 2:
 
 CPU: Intel Core i5 7200U
