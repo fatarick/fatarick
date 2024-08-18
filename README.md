@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**fatarick/fatarick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Young "Devoloper" from Israel. Gamer and Windows+Linux User.
+idk what to write:/.
 
-Here are some ideas to get you started:
+Config 1:
+CPU: Intel Core i7 9700F
+GPU: Geforce GTX 1650
+RAM: 16GB
+Storage: 240GB SSD+1TB HDD.
+OS:Windows 11 23H2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Config 2:
+CPU: Intel Core i5 7200U
+GPU:Intergrated
+RAM:4GB
+Storage: I Forgot
+OS: Xubuntu 24.04
