@@ -28,4 +28,4 @@ RAM:4GB
 
 Storage: I Forgot
 
-OS: Xubuntu 24.04
+OS: Arch Linux
