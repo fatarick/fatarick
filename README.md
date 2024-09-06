@@ -30,6 +30,8 @@ Storage: I Forgot
 
 OS: Arch Linux
 
-My Socials (that i want to show)
+# My Socials (that i want to show)
 
-[![](https://w7.pngwing.com/pngs/262/918/png-transparent-tiktok-button-icon.png)](https://www.tiktok.com/@fatarick)
+
+
+[<img src='https://w7.pngwing.com/pngs/262/918/png-transparent-tiktok-button-icon.png' width="50" height"25"/>](https://www.tiktok.com/@fatarick)
