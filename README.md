@@ -34,4 +34,4 @@ OS: Arch Linux
 
 
 
-[<img src='https://w7.pngwing.com/pngs/262/918/png-transparent-tiktok-button-icon.png' width="50" height="25"/>](https://www.tiktok.com/@fatarick)
+[<img src='https://w7.pngwing.com/pngs/262/918/png-transparent-tiktok-button-icon.png' width="75" height="25"/>](https://www.tiktok.com/@fatarick)
