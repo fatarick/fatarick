@@ -35,3 +35,6 @@ OS: Arch Linux
 
 
 [<img src='https://w7.pngwing.com/pngs/262/918/png-transparent-tiktok-button-icon.png' width="75" height="25"/>](https://www.tiktok.com/@fatarick)
+[<img src='https://github.com/user-attachments/assets/d4316650-c04c-42e1-a8be-d5395656b37c' width="75" height="50"/>](https://www.youtube.com/@fatare)
+
+
