@@ -35,9 +35,10 @@ OS: Arch Linux
 
 
 [<img src='https://w7.pngwing.com/pngs/262/918/png-transparent-tiktok-button-icon.png' width="75" height="25"/>](https://www.tiktok.com/@fatarick) TikTok!
-[<img src='https://github.com/user-attachments/assets/d4316650-c04c-42e1-a8be-d5395656b37c' width="50" height="37.5"/>](https://www.youtube.com/@fatare) Youtube*
 [<img src='https://github.com/user-attachments/assets/dd77cd0e-96f4-4687-bd65-fec49c2bd84e' width="50" height="50">](https://steamcommunity.com/id/fatarick/) Steam
-[<img src='https://w7.pngwing.com/pngs/16/337/png-transparent-reddit-button-computer-icons-social-media-blerp-party-and-government-construction-orange-smiley-social-media.png'>](https://www.reddit.com/user/Litvinsev/) Reddit*
+[<img src='https://w7.pngwing.com/pngs/16/337/png-transparent-reddit-button-computer-icons-social-media-blerp-party-and-government-construction-orange-smiley-social-media.png' width="50" height="50">](https://www.reddit.com/user/Litvinsev/) Reddit*
+
+* - Goofy Ahh Posts
 
 
 
