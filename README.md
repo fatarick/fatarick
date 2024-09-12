@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Young "Devoloper" from Israel. Gamer and Windows+Linux User.
+I'm Artyom, Young "Devoloper" from Israel. Gamer and Windows+Linux User.
 
 idk what to write:/.
 
