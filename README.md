@@ -14,7 +14,7 @@ RAM: 16GB
 
 Storage: 240GB SSD+1TB HDD.
 
-OS:Windows 11 23H2
+OS:Linux Mint (Cinnamon)
 
 
 
@@ -24,11 +24,11 @@ CPU: Intel Core i5 7200U
 
 GPU:Intergrated
 
-RAM:4GB
+RAM:8GB
 
 Storage: I Forgot
 
-OS: Arch Linux
+OS: Linux Mint (XFCE)
 
 # My Socials (that i want to show)
 
