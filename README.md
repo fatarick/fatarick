@@ -40,6 +40,13 @@ OS: Linux Mint (XFCE)
 
 * - Goofy Ahh Posts
 
+# Github Widgets
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatarick)](https://github.com/anuraghazra/github-readme-stats)
+[![Fatarick's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatarick)](https://github.com/anuraghazra/github-readme-stats)
+
+Big Thanks to https://github.com/anuraghazra for these beautiful widgets!
+
 
 
 
