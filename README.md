@@ -14,7 +14,7 @@ RAM: 16GB
 
 Storage: 240GB SSD+1TB HDD.
 
-OS:Linux Mint (Cinnamon)
+OS:Windows 11
 
 
 
