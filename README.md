@@ -19,7 +19,7 @@ OS: MacOS
 Display: 13,6 Inch BuiltIn Display (27 Inch Samsung Smart Monitor M5 2023 As a second sometimes)
 
 
-# Second + Gaming Choice Config:
+# Second + Gaming Choice Config (2020 Gaming PC):
 
 CPU: Intel Core i7 9700F 8 Core
 
