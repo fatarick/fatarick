@@ -6,9 +6,9 @@ idk what to write:/.
 
 # Main First Choice Config (MacBook Air 13Inch M3 2024, Coming Soon):
 
-CPU: Apple M3 8 Core
+CPU: Apple M3 (8 Core)
 
-GPU: Apple M3 Intergrated GPU 10 Core
+GPU: Apple M3 Intergrated GPU (10 Core)
 
 RAM: 16GB
 
@@ -16,12 +16,12 @@ Storage: 512GB SSD
 
 OS: MacOS
 
-Display: 13,6 Inch BuiltIn Display (27 Inch Samsung Smart Monitor M5 2023 As a second sometimes)
+Displays: 13.6 Inch Built In Display (27 Inch Samsung Smart Monitor M5 2023 as a second sometimes)
 
 
 # Second + Gaming Choice Config (2020 Gaming PC):
 
-CPU: Intel Core i7 9700F 8 Core
+CPU: Intel Core i7 9700F (8 Core)
 
 GPU: Geforce GTX 1650
 
@@ -37,17 +37,17 @@ Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Standard Monito
 
 # Third Choice Config (Lenovo laptop from 2017):
 
-CPU: Intel Core i5 7200U 2 Core
+CPU: Intel Core i5 7200U (2 Core)
 
-GPU:Intergrated
+GPU: Intel HD Graphics 620
 
-RAM:8GB
+RAM: 8GB
 
 Storage: 500GB
 
 OS: Linux Mint (XFCE)
 
-Display : 15(?) Built In Display
+Displays: 15 Inch Built In Display
 
 # My Socials (that i want to show)
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/1051147233426407494)
