@@ -4,7 +4,7 @@ I'm Artyom, Young "Devoloper" from Israel. Gamer and Windows+Linux+MacOS(Soon) U
 
 idk what to write:/.
 
-Main First Choice Config (MacBook Air 13Inch M3 2024, Coming Soon):
+# Main First Choice Config (MacBook Air 13Inch M3 2024, Coming Soon):
 
 CPU: Apple M3 8 Core
 
@@ -19,7 +19,7 @@ OS: MacOS
 Display: 13,6 Inch BuiltIn Display (27 Inch Samsung Smart Monitor M5 2023 As a second sometimes)
 
 
-Second + Gaming Choice Config:
+# Second + Gaming Choice Config:
 
 CPU: Intel Core i7 9700F 8 Core
 
@@ -35,7 +35,7 @@ Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Standard Monito
 
 
 
-Third Choice Config (Lenovo laptop from 2017):
+# Third Choice Config (Lenovo laptop from 2017):
 
 CPU: Intel Core i5 7200U 2 Core
 
