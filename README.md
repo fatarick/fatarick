@@ -1,12 +1,27 @@
 ## Hi there 👋
 
-I'm Artyom, Young "Devoloper" from Israel. Gamer and Windows+Linux User.
+I'm Artyom, Young "Devoloper" from Israel. Gamer and Windows+Linux+MacOS(Soon) User.
 
 idk what to write:/.
 
-Config 1:
+Main First Choice Config (MacBook Air 13Inch M3 2024, Coming Soon):
 
-CPU: Intel Core i7 9700F
+CPU: Apple M3 8 Core
+
+GPU: Apple M3 Intergrated GPU 10 Core
+
+RAM: 16GB
+
+Storage: 512GB SSD
+
+OS: MacOS
+
+Display: 13,6 Inch BuiltIn Display (27 Inch Samsung Smart Monitor M5 2023 As a second sometimes)
+
+
+Second + Gaming Choice Config:
+
+CPU: Intel Core i7 9700F 8 Core
 
 GPU: Geforce GTX 1650
 
@@ -16,19 +31,23 @@ Storage: 240GB SSD+1TB HDD.
 
 OS:Windows 11
 
+Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Standard Monitor 2018
 
 
-Config 2:
 
-CPU: Intel Core i5 7200U
+Third Choice Config (Lenovo laptop from 2017):
+
+CPU: Intel Core i5 7200U 2 Core
 
 GPU:Intergrated
 
 RAM:8GB
 
-Storage: I Forgot
+Storage: 500GB
 
 OS: Linux Mint (XFCE)
+
+Display : 15(?) Built In Display
 
 # My Socials (that i want to show)
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/1051147233426407494)
