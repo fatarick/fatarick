@@ -4,7 +4,7 @@ I'm Artyom, Young "Devoloper" from Israel. Gamer and Windows+Linux+MacOS(Soon) U
 
 idk what to write:/.
 
-# Main First Choice Config (MacBook Air 13Inch M3 2024, Coming Soon):
+# Main First Choice Config (MacBook Air 13Inch M3 2024):
 
 CPU: Apple M3 (8 Core)
 
