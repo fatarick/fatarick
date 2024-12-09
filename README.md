@@ -53,9 +53,7 @@ Displays: 15 Inch Built In Display
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/1051147233426407494)
 [<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>](https://www.tiktok.com/@fatarick)
 [<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/fatarick/)
-[<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/Litvinsev/) *
-
-* - Goofy Ahh Posts
+[<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/Litvinsev/)
 
 # Github Widgets
 
