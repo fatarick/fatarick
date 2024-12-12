@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Artyom, Young "Devoloper" from Israel. Gamer and Windows+Linux+MacOS User.
+I'm Artyom, Young "Devoloper" from Israel. Gamer and Linux+MacOS User.
 
 idk what to write:/.
 
@@ -29,7 +29,7 @@ RAM: 16GB
 
 Storage: 240GB SSD+1TB HDD.
 
-OS:Windows 11
+OS:EndeavourOS
 
 Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Standard Monitor 2018
 
