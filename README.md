@@ -4,6 +4,10 @@ I'm Artyom, Young "Devoloper" from Israel. Gamer and Linux+Windows+MacOS User.
 
 idk what to write:/.
 
+# What you will find on this profile???
+
+AI Generated Staff or Im bored ahh web projects.
+
 # Main First Choice Config (MacBook Air 13Inch M3 2024):
 
 CPU: Apple M3 (8 Core)
