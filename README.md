@@ -33,25 +33,9 @@ RAM: 16GB
 
 Storage: 240GB SSD+1TB HDD.
 
-OS: Windows 11
+OS: Arch Linux
 
 Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Standard Monitor 2018
-
-
-
-# Third Choice Config (Lenovo laptop from 2017):
-
-CPU: Intel Core i5 7200U (2 Core)
-
-GPU: Intel HD Graphics 620
-
-RAM: 8GB
-
-Storage: 500GB
-
-OS: Windows 7
-
-Displays: 15 Inch Built In Display
 
 # My Socials (that i want to show)
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/1051147233426407494)
