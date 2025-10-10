@@ -33,9 +33,24 @@ RAM: 16GB
 
 Storage: 240GB SSD+1TB HDD.
 
-OS: Windows 11
+OS: Arch Linux
 
 Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Standard Monitor 2018
+
+# Microcontrollers:
+
+ESP32 Wroom Micro USB
+
+Arduino UNO
+
+ESP32 S3 (Soon to arrive)
+
+
+Planning to buy:
+
+ESP32 Wroom USB-C
+
+Arduino UNO Q
 
 # My Socials (that i want to show)
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/1051147233426407494)
