@@ -46,7 +46,7 @@ Arduino UNO
 ESP32 S3 (Soon to arrive)
 
 
-Planning to buy:
+## Planning to buy:
 
 ESP32 Wroom USB-C
 
