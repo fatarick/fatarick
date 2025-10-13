@@ -33,7 +33,7 @@ RAM: 16GB
 
 Storage: 240GB SSD+1TB HDD.
 
-OS: Arch Linux
+OS: Windows 11
 
 Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Standard Monitor 2018
 
