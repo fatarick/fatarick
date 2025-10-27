@@ -43,12 +43,11 @@ ESP32 Wroom Micro USB
 
 Arduino UNO
 
-ESP32 S3 (Soon to arrive)
+ESP32 S3 
 
+M5 Stick C Plus 2 (idk if it counts, on the way)
 
 ## Planning to buy:
-
-ESP32 Wroom USB-C
 
 Arduino UNO Q
 
