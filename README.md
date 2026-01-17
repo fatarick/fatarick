@@ -45,15 +45,9 @@ Arduino UNO
 
 ESP32 S3 
 
-M5 Stick C Plus 2 (on the way, resting in the customs :[ )
+M5 Stick C Plus 2 
 
-## Planning to buy:
-
-Arduino UNO Q (Those who dont know its like a regular Arduino UNO but it runs Debian and it has a Qualcomm SoC)
-
-3x ESP32 Wroom USB C
-
-LilyGO T-Embed CC1101 Plus
+Micro:Bit V2 (idk if it counts)
 
 # My Socials (that i want to show)
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/1051147233426407494)
