@@ -1,8 +1,3 @@
-## Hi there 👋
-
-I'm Artyom, Young "Devoloper" from Israel. Gamer and Windows+MacOS User.
-
-idk what to write:/.
 
 # What you will find on this profile???
 
