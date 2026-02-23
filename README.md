@@ -50,13 +50,6 @@ Micro:Bit V2 (idk if it counts)
 [<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/fatarick/)
 [<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/Litvinsev/)
 
-# Github Widgets
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatarick)](https://github.com/anuraghazra/github-readme-stats)
-[![Fatarick's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatarick)](https://github.com/anuraghazra/github-readme-stats)
-
-Big Thanks to https://github.com/anuraghazra for these beautiful widgets!
-
 # Stuff i know and use
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
