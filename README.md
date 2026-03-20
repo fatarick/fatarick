@@ -13,7 +13,7 @@ RAM: 16GB
 
 Storage: 512GB SSD
 
-OS: MacOS
+OS: macOS
 
 Displays: 13.6 Inch Built In Display (27 Inch Samsung Smart Monitor M5 2023 as a second sometimes)
 
@@ -28,9 +28,9 @@ RAM: 16GB
 
 Storage: 240GB SSD+1TB HDD.
 
-OS: Windows 11
+OS: Arch Linux
 
-Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Standard Monitor 2018
+Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Generic Monitor 2018
 
 # Microcontrollers/IoT Devices:
 
