@@ -28,7 +28,7 @@ RAM: 16GB
 
 Storage: 240GB SSD+1TB HDD.
 
-OS: Windows 7 (Yes, the PC is this useless)
+OS: Windows 11
 
 Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Generic Monitor 2018
 
