@@ -1,3 +1,6 @@
+# Who am i
+
+A "Programmer" and AI Enthusiast
 
 # What you will find on this profile???
 
@@ -18,7 +21,7 @@ OS: macOS
 Displays: 13.6 Inch Built In Display (27 Inch Samsung Smart Monitor M5 2023 as a second sometimes)
 
 
-# Second + Gaming Choice Config (2020 Gaming PC):
+# Second + Gaming Choice Config (2020 Gaming PC/hoping to upgrade soon😭):
 
 CPU: Intel Core i7 9700F (8 Core)
 
