@@ -39,9 +39,11 @@ Displays: 27 Inch Samsung Smart Monitor M5 2023, 24 Inch Samsung Generic Monitor
 
 ESP32 Wroom Micro USB
 
+ESP32 Wroom USB-C🔜
+
 Arduino UNO
 
-ESP32 S3 
+ESP32 S3 (Lost😭)
 
 M5 Stick C Plus 2 
 
