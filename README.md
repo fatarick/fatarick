@@ -6,20 +6,6 @@ A "Programmer" and AI Enthusiast
 
 AI Generated Staff or Im bored ahh web projects.
 
-# Laptop (MacBook Air 13Inch M3 2024):
-
-CPU: Apple M3 (8 Core)
-
-GPU: Apple M3 Intergrated GPU (10 Core)
-
-RAM: 16GB
-
-Storage: 512GB SSD
-
-OS: macOS
-
-Displays: 13.6 Inch Built In Display 
-
 # Desktop (2020 Gaming PC):
 
 CPU: Intel Core i7 9700F
@@ -46,7 +32,7 @@ ESP32 S3 (Lost😭)
 
 M5 Stick C Plus 2 
 
-Micro:Bit V2 (idk if it counts)
+Micro:Bit V2 (idk if that counts)
 
 # My Socials (that i want to show)
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/1051147233426407494)
